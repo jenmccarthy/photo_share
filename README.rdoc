@@ -1,4 +1,4 @@
-=Recipes
+=PhotoShare
 
 ==authored by Randy Leighton and Jen McCarthy and Sean Niesen
 
